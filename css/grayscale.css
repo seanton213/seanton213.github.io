@@ -361,3 +361,11 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+ul {
+    list-style-type: none;
+}
+
+.courses {
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
